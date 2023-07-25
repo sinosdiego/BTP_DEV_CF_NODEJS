@@ -38,11 +38,7 @@ entity Scarr{
 entity Spfli {   
     key carrid  : String(6);
     key connid  : String(8);
-    //countryfr   : String(6);
-    //cityfrom    : String(40);
     airpfrom    : Association to Scitairp;
-    //countryto   : String(6);
-    //cityto      : String(40);
     airpto      : Association to Scitairp;
     fltime      : String(5); //tempo duração
     deptime     : String(8); //hora partida
@@ -78,11 +74,6 @@ entity Sflight {
 }
 
 entity Sbook {
-    //SFLIGHT_SPFLI_SCARR_CARRID;SFLIGHT_SPFLI_CONNID;SFLIGHT_FLDATE
-    //sflight_spfli_scarr_carrid
-    //sflight_spfli_connid
-    //sflight_fldate
-    //key sflight : Association to Sflight;
     key carrid  : String(6);
     key connid  : String(8);
     key fldate  : String(10);
