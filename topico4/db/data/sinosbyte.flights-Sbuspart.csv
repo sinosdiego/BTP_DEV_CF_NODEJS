@@ -1,0 +1,501 @@
+BUSPARTNUM;CONTACT;CONTPHONO;BUSPATYP
+1;SAP AG;06227-34-0;FC
+2;Andreas Klotz;05344-676792;FC
+3;Hans Bullinger;02099-44591;FC
+4;Staerck;07508-66-7886;FC
+5;Martin;;FC
+6;Starr;;FC
+7;King;;FC
+8;Moore;;FC
+9;Everton FC;332-5678-0;FC
+10;Raupp;;FC
+11;Ballmann;;FC
+12;Radetzky;;FC
+13;Mueller;;FC
+14;Genee;;FC
+15;Soehnen;;FC
+16;Leihinger Brauerei;;FC
+17;Ruthenberg;;FC
+18;Miller;;FC
+19;Plum;;FC
+20;Becker;;FC
+21;SAP Oesterreich;;FC
+22;SAP (Schweiz) AG;;FC
+23;SAP America Inc.;;FC
+24;SAP Thailand;;FC
+25;SAP Australia PTY.LTD.;;FC
+26;SAP Belgium SA;;FC
+27;SAP Canada Inc.;;FC
+28;SAP Danmark A/S;;FC
+29;SAP France SA;;FC
+30;SAP Italy SPA;;FC
+31;SAP Nederland B.V.;;FC
+32;SAP Espana y Portugal S.A;;FC
+33;Rolf Lau;;FC
+34;Juergen Stahl;;FC
+35;Brucher;;FC
+36;Maggie Faratti;914-723-0915;FC
+37;Dampf;;FC
+38;Rolf-Dietmar Huder;;FC
+39;Forks Manufacturing GmbH;;FC
+40;Electronic Components Dis;;FC
+41;Wald & Maier;06894/55501-0;FC
+42;Mueller;;FC
+43;Stolz;;FC
+44;KBB Schwarze Pumpe;;FC
+45;SMP GmbH;;FC
+46;AluCast GmbH;;FC
+47;Sedona Suppliers;602-444-5678;FC
+48;SRV GmbH;;FC
+49;Becker AG;030-8853-0;FC
+50;Lampen-Markt GmbH;069-467653-0;FC
+51;Orangenmarkt KG;0888-86765765;FC
+52;Motorbau GmbH;;FC
+53;Bikeland international;;FC
+54;Becker GmbH;;FC
+55;Meyer;+1 901-632-5620;TA
+56;Blacks AG;;FC
+57;Bike Retail & Co.;;FC
+58;Motor constructions Ltd.;;FC
+59;Parts & Pipes;;FC
+60;Harvey Parts & Co.;;FC
+61;Meyer;+49 2102 69555;TA
+62;SKF Kugelmeier KGaA;;FC
+63;Reihl & Mueller;;FC
+64;Woellner AG;;FC
+65;Lebensmittelgrosshandel-B;;FC
+66;NoeCompany;;FC
+67;Max Grosshandel;;FC
+68;Lang u. Soehne;;FC
+69;Egerger AG;;FC
+70;Food & Stuff;0123-765-9869;FC
+71;Walldorf Grosshandel;;FC
+72;Sommer GmbH;;FC
+73;Hamberger u. CO.;;FC
+74;Kreutzschmid;;FC
+75;Humpert u. Toechter;;FC
+76;Meinecke;;FC
+77;Phunix;069 / 768890;FC
+78;Alpha Dienstleistungen;;FC
+79;Hertz Autovermietung;06196 / 937 - 0;FC
+80;Eastern Supply Co.;215-751-1400;FC
+81;International Container C;;FC
+82;Metal Container Inc.;;FC
+83;Real Estate Company USA;;FC
+84;Schumacher Beratung;0221 / 43654-36;FC
+85;E & S Systems;06034 / 9302-7;FC
+86;Schmalenbach;069 / 2546-326;FC
+87;Meyer;+49 30-8853-0;TA
+88;Brain Associates;;FC
+89;Schneider AG Deutschland;;FC
+90;IDES UK;;FC
+91;Snyder Inc.;;FC
+92;IDES Canada;;FC
+93;Meyer;+49 69-467653-0;TA
+94;Schneider GmbH;;FC
+95;Eastern Trucking & Co.;617-721-1400;FC
+96;HTG Komponente GmbH;0511-123456;FC
+97;HTG Components;215-783-6565;FC
+98;ABC Dienstleistungen GmbH;;FC
+99;Moralo Ltd.;031 / 4699966;FC
+100;Meyer;+49 9256-4548-0;TA
+101;Meyer;+39 6 893546721;TA
+102;Meyer;+61 2 2004 5000;TA
+103;Meyer;+65 777-5566;TA
+104;Meyer;+43 7941 8903;TA
+105;Meyer;+49 30-622860;TA
+106;Meyer;+46 8/ 587 70000;TA
+107;Meyer;+44 121 365-2251;TA
+108;Meyer;+41 1 345-5321;TA
+109;Meyer;+44 171-2937638;TA
+110;Meyer;+49 98-32832732;TA
+111;Meyer;+1 508-692-5200;TA
+112;Meyer;+44 141 711-5643;TA
+113;Meyer;+7 3287-213321;TA
+114;Meyer;+49 511-347589-0;TA
+115;Meyer;+49 221-5689-100;TA
+116;Meyer;+49 711-7100;TA
+117;Meyer;+49 2670-8560-0;TA
+118;Meyer;+81 3-3239-3501;TA
+119;Meyer;+49 89-2499239;TA
+120;Meyer;+49 3266-288817;TA
+121;Meyer;+49 241-77729;TA
+122;Meyer;+49 351-5423-00;TA
+123;Meyer;+44 161 2052000;TA
+124;Meyer;+49 511 403266-0;TA
+125;Meyer;+1 708-454-8723;TA
+126;Plant Ltd.;081 / 384 1054;FC
+127;Abbott Building Supplies,;610-725-4500;FC
+128;International Container C;;FC
+129;Metal Containers;;FC
+130;Meyer;+1 415-454-9877;TA
+131;Zebra Supplies;610-725-4500;FC
+132;Zebra Supplies;610-595-4900;FC
+133;Zebra Supplies;708-947-3400;FC
+134;Zebra Supplies;770-353-2900;FC
+135;Zebra Supplies;415-637-1655;FC
+136;Aztec Supplies;617-672-6500;FC
+137;Farm Products Inc.;513-977-5400;FC
+138;Colinas Maintenance Corp.;214-868-2000;FC
+139;Schwartz Brothers;;FC
+140;Destec Office Supplies;713-917-5200;FC
+141;Irvine Plant 3000;714-622-2200;FC
+142;Bellevue Plant 4000;206-462-6395;FC
+143;Infix Co.;415 - 521 3318;FC
+144;Pyramid Systems;408 - 364 3224;FC
+145;TetPak Inc.;312 - 553 9200;FC
+146;Mitch & Collins;448 - 4527;FC
+147;London Supplying Plant;;FC
+148;CINSA;;FC
+149;D. & P. Forbes;416 - 492 4411;FC
+150;Anda El Eid;6067235;FC
+151;Hatushiba co.ltd;;FC
+152;Meyer;+1 215-090-7659;TA
+153;Noe Food Company;610-555-1212;FC
+154;Anita Acht;;FC
+155;Hanley Supply House;;FC
+156;Porto Leather Supplier;;FC
+157;Aluminium-Recycling GmbH;;FC
+158;SAPSOTA AG;;FC
+159;Harley Accessories Produc;;FC
+160;AC-Schulung;;FC
+161;Becker AG;;FC
+162;Schwarz Konstruktionen Gm;;FC
+163;Meyer Elektro-Installatio;;FC
+164;Hellweger;;FC
+165;Chris Miller;0721/12 12 12;FC
+166;Buffetti S.p.A.;;FC
+167;SAP ITALIA SPA;;FC
+168;IBM of Portugal;;FC
+169;Hewlett Packard;;FC
+170;Lieferanten GmbH;;FC
+171;Kenneth K. Krediman;;FC
+172;John Smith;;FC
+173;Frank Abbott;714-622-4567;FC
+174;Linda Smythe;708-655-3137;FC
+175;Karen Mitchell;312-323-5600;FC
+176;Douglas Olson;;FC
+177;Jean Cosman;;FC
+178;Tom Peterson;;FC
+179;Brower & Co;;FC
+180;MotoLux;;FC
+181;Rasch Gruppe 99 KFZ-Zubeh;;FC
+182;C.E.B Berlin;030-8853-0;FC
+183;Becker GmbH;;FC
+184;Harvey Parts & C0.;;FC
+185;Holmes & Sherlock;;FC
+186;Meier & Mueller KG;;FC
+187;Schmidt & Co. KG;;FC
+188;Meyer;+49 69-99-0;TA
+189;Schultze AG;;FC
+190;Huber & Wagner;;FC
+191;BROWER & CO;;FC
+192;Verleihnix;;FC
+193;Automatix;;FC
+194;Techno Graph ltd.;;FC
+195;Becker Berlin;030-8853-0;FC
+196;Lampen-Markt GmbH;069-467653-0;FC
+197;Food & Stuff;089-120045-0;FC
+198;Karsson AG;089-456897-0;FC
+199;Becker AG;030-982699-0;FC
+200;Phunix KG;069-76889-0;FC
+201;P.S.G. GmbH;;FC
+202;Buy & Fly Supermarkt;069-465789-0;FC
+203;Hitech AG;040-82597-0;FC
+204;Star Markt;069-345658-0;FC
+205;Super Markets Inc.;;FC
+206;J & P Inc.;0711-805964;FC
+207;Automobile Courier Hmbg.;040-2251-0;FC
+208;Waffles and Wafers Inc.;;FC
+209;Karpov SR.;;FC
+210;Werk Hamburg 1000;;FC
+211;Werk 2000 London;;FC
+212;Werk 1200 Dresden;;FC
+213;Supermarket;;FC
+214;ALDO Supermarkt;0711-564321-0;FC
+215;Russian Prisunic;;FC
+216;Minerva GmbH;040-936247;FC
+217;Christal Clear;0511-347589-0;FC
+218;Becker Koeln;0221-5689-100;FC
+219;NSM Pumpentechnik AG;02670-8560-0;FC
+220;FAST International;089-243567-0;FC
+221;Superplus;089-2499239;FC
+222;Meyer;+1 251-369-2510;TA
+223;NSM Marschfelden GmbH;03266-288817;FC
+224;Meyer;+33 1-405-555-888;TA
+225;Technik und Systeme GmbH;0241-77729;FC
+226;A.I.T. GmbH;0221-9933-8700;FC
+227;Robichaud Distributors;;FC
+228;British Railways;00-44-81-844887;FC
+229;Meyer;+1 512 343-8543;TA
+230;TALPA GmbH;0511-403266-0;FC
+231;Henderson Inc.;708-454-8723;FC
+232;Huntington Equipment;415-454-9877;FC
+233;Meyer;+1 604 827-8024;TA
+234;Smart Mart Inc.;215-090-7659;FC
+235;West Coast Computer Cente;;FC
+236;Electricit, Gaz et Eau;00-1-405-555-888;FC
+237;Wheels Inc.;;FC
+238;Spokes Inc.;;FC
+239;Cycles Inc.;;FC
+240;The Bikes Shop;;FC
+241;Sports Equipment;;FC
+242;Oesterreich. Wasserwerke;00-43-444-220551;FC
+243;EWI Transport GmbH;0211-33600-0;FC
+244;Reserv.f.Kreditprozess;;FC
+245;IDES UK;;FC
+246;Carbor GmbH;0211-9986-0;FC
+247;Nobil North Sea Limited;00-44-934-66799;FC
+248;COMPU Tech. AG;0221-454321-0;FC
+249;N.I.C. HiTech;069-987654-9;FC
+250;PEM GmbH;09256-5648-0;FC
+251;HTG Komponente GMBH;0511-123456;FC
+252;HTG Components;215-783-6565;FC
+253;Motomarkt GmbH;;FC
+254;Meyer;+27 11 886-8981;TA
+255;Alles fuer's Motorrad;;FC
+256;Hot Wheels GmbH;;FC
+257;Synergistics Test Custome;;FC
+258;Thomas Bush Inc.;(708)450-6486;FC
+259;Davis Integration System;;FC
+260;Arrowspace;(319)312-5518;FC
+261;Pro Merchandising GmbH;00-49-6202123444;FC
+262;Booktree inc.;(619)517-4456;FC
+263;Leading Edge Technologies;800-333-3301;FC
+264;Hershay Foods Corporation;305-555-1234;FC
+265;Hever Industrial UK;00-170866645;FC
+266;Damien Foods Internationa;;FC
+267;IMB International Corpora;215-419-9000;FC
+268;IMB of USA Corporation;;FC
+269;IMB PC Corp.;;FC
+270;RJB International Foods C;;FC
+271;RJB Snack Food Division;;FC
+272;RJB Health Foods Division;;FC
+273;Candid International Copi;;FC
+274;Candid Mini Copiers Divis;;FC
+275;Candid Corporate Copiers;;FC
+276;Blip Pens Corporation;;FC
+277;Randy Maps Incorporated;;FC
+278;PH Desktop Computers Corp;;FC
+279;PH Monitor Corporation;;FC
+280;PH Keyboard Corporation;;FC
+281;Infix Co.;415 - 521 3318;FC
+282;Roberta Energy Ltd;00-141777754;FC
+283;Eastland Trade;00-1706443219;FC
+284;Meyer;+49 711-7992-00;TA
+285;Compu Tech;;FC
+286;N.I.C. HiTech;;FC
+287;PAE, Inc;;FC
+288;British Airways;1-256523-1;FC
+289;Helmle;;FC
+290;Hallmann Anlagenbau GmbH;02381-34343-0;FC
+291;Meyer;+49 6131-543-00;TA
+292;Flatter & Asche AG;0211-34567-0;FC
+293;Hitech AG;;FC
+294;Meyer;+49 611-55 66 77;TA
+295;Meyer;+44 934-66799;TA
+296;Biker GmbH;06223-697851;FC
+297;Meyer;+1 788 798-6555;TA
+298;Hoffmann-La Roche;;FC
+299;Schering-Plough HealthCar;;FC
+300;Minerva Health Care Produ;;FC
+301;Meyer;+1 874-654-6686;TA
+302;Dr. Ricken & Partner;;FC
+303;Harley Sales Hockenheim;;FC
+304;Meyer;+1 652 645-5236;TA
+305;Steyer Motorraeder;;FC
+306;Smart Mart;215-090-7659;FC
+307;SAPSOTA AG;;FC
+308;SAPSOTA AG;;FC
+309;Buy & Fly Supermarkt;069-465789-0;FC
+310;Meyer;+1 08-924-9884;TA
+311;TECHNOLAND;;FC
+312;Siemens Nixdorf;;FC
+313;BASF Chimica;;FC
+314;Siemens Nixdorf;;FC
+315;SAP Iberoamerica;;FC
+316;Donald D. Debiman;;FC
+317;Kunde GmbH;;FC
+318;LAMPEN GMBH;;FC
+319;Meyer;+44 609-896-Moore;TA
+320;Meyer;+1 64351-6455-654;TA
+321;CHRISTAL CLEAR  GR01;;FC
+322;MAFA2;;FC
+323;Meyer;+1 646 867-6888;TA
+324;Joe DiMaggio;;FC
+325;Meyer;+49 69 465789-0;TA
+326;Felippe Gonzaga;;FC
+327;AUFTRAGGEBER;06221-12345;FC
+328;Shower & CO;;FC
+329;Becker;;FC
+330;Glueckschmitt;;FC
+331;Hugendubel;;FC
+332;James Buchholm;+1 240 27589 29874;FC
+333;James Barth;+1 240 27589 29874;FC
+334;Jean Weiss;+32 2 202 1638;FC
+335;Walter Hansmann;0049 621 8282693;FC
+336;Lothar Babilon;089 8828838;FC
+337;Laura Heller;06221 934 432;FC
+338;Simon Koller;+41 22 730 4003;FC
+339;Astrid Legrand;0621 801740;FC
+340;Ulla Rahn;06222 12345;FC
+341;Lee Hansmann;516-865-1547;FC
+342;Guillermo Domenech;34914567200;FC
+343;Kurt Detemple;06221 922 053;FC
+344;Peter Sessler;03224 78655;FC
+345;Walter Jeremias;0049 621 8282693;FC
+346;Lothar Vrsic;06227 12345;FC
+347;Ruth Lautenbach;02131 465750;FC
+348;Ulla Cesari;06222 12345;FC
+349;Fabio Koslowski;3452738785;FC
+350;Roland Koller;07751 800753;FC
+351;Christa Kreiss;06157 93123;FC
+352;Siegfried Sessler;03342 365749;FC
+353;Laura Neubasler;06221 934 432;FC
+354;Andrej DOultrement;00386 61 277543;FC
+355;Friedrich Moyano;06227 12345;FC
+356;Anne-Marie Prinz;0911 584 365;FC
+357;Sophie Gueldenpfennig;0049 6235 93317;FC
+358;Achim Buchholm;0721 37758;FC
+359;Illya Rahn;0800 700707;FC
+360;Juan Pan;914782397;FC
+361;Walter Kirk;0049 621 8282693;FC
+362;Ludwig Sisko;06151 77372;FC
+363;Irmtraut Columbo;06104 554433;FC
+364;James Sudhoff;+1 240 27589 29874;FC
+365;Illya Leisert;0800 700707;FC
+366;Andrej Kreiss;00386 61 277543;FC
+367;James Illner;+1 240 27589 29874;FC
+368;Roland Jacqmain;07751 800753;FC
+369;Roland Kreiss;07751 800753;FC
+370;Adam Picard;06207 4138;FC
+371;Irene Benjamin;04232 16212;FC
+372;Johannes Buchholm;06131 125627;FC
+373;Pierre Miguel;+33 2 72 69 00 32;FC
+374;Jean Gahl;+32 2 202 1638;FC
+375;Christoph Henry;221 784 4478;FC
+376;Sophie Simonen;0049 6235 93317;FC
+377;Holm Picard;06221 54321;FC
+378;Marta Delon;932374423;FC
+379;Anna Jacqmain;08912 44376;FC
+380;Simon Benz;+41 22 730 4003;FC
+381;Guillermo Rahn;34914567200;FC
+382;Pierre Hansmann;+33 2 72 69 00 32;FC
+383;Peter Pratt;03224 78655;FC
+384;Ludwig Buchholm;06151 77372;FC
+385;Benjamin Schneider;+1 552 48959 68876;FC
+386;Horst Benz;07641 927813;FC
+387;Anne-Marie Kirk;0911 584 365;FC
+388;Thilo Waldmann;1234 5678900386;FC
+389;Holm Gahl;06221 54321;FC
+390;Lothar Koller;089 8828838;FC
+391;Thilo Delon;1234 5678900386;FC
+392;Marta Rahn;932374423;FC
+393;Siegfried Koslowski;03342 365749;FC
+394;Friedrich Matthaeus;06227 12345;FC
+395;Astrid Picard;0621 801740;FC
+396;Achim Lautenbach;0721 37758;FC
+397;Matthias Jacqmain;07254 6442;FC
+398;Chantal Heller;0134 63 1919;FC
+399;Mathilde Heller;06227 13813;FC
+400;Benjamin Babilon;+1 552 48959 68876;FC
+401;Gisela Illner;02336/934587;FC
+402;Christa Leisert;06157 93123;FC
+403;Theresia Trensch;07034 / 299934;FC
+404;Anna Montero;08912 44376;FC
+405;Lothar Barth;089 8828838;FC
+406;Thomas Hunter;312 781 8000;FC
+407;Georg Lindwurm;06227/57188;FC
+408;Georg Hoffen;06227/57188;FC
+409;Fabio Pan;3452738785;FC
+410;Allen Prinz;201-692-8128;FC
+411;Stephen Montero;06202 12345;FC
+412;Pierre Wohl;+33 2 72 69 00 32;FC
+413;Ludwig Prinz;06151 77372;FC
+414;Pierre Hunter;+33 2 72 69 00 32;FC
+415;Thomas Weiss;312 781 8000;FC
+416;Achim DOultrement;0721 37758;FC
+417;James Martin;+1 240 27589 29874;FC
+418;Christoph Kreiss;221 784 4478;FC
+419;Roland Benjamin;07751 800753;FC
+420;Lothar Jeremias;06227 12345;FC
+421;Siegfried Legrand;03342 365749;FC
+422;Ludwig Hansmann;06151 77372;FC
+423;Thomas Trensch;312 781 8000;FC
+424;Marta Sessler;932374423;FC
+425;Carmel Meier;973-331-3069;FC
+426;Holm Zimmermann;06221 54321;FC
+427;Lothar Eichbaum;089 8828838;FC
+428;Stephen Babilon;06202 12345;FC
+429;Peter Columbo;03224 78655;FC
+430;Christa Koller;06157 93123;FC
+431;Walter Mechler;0049 621 8282693;FC
+432;Andreas Delon;0732 652149;FC
+433;Amelie Jeremias;07254 953350;FC
+434;Anna Vrsic;0621/25871;FC
+435;Ruth Sessler;02131 465750;FC
+436;Chantal Legrand;0134 63 1919;FC
+437;Thilo Dumbach;1234 5678900386;FC
+438;Benjamin Simonen;+1 552 48959 68876;FC
+439;Simon Goelke;+41 22 730 4003;FC
+440;Christa Hoffen;06157 93123;FC
+441;Gisela Pan;02336/934587;FC
+442;Peter Gahl;03224 78655;FC
+443;Simon Pratt;+41 22 730 4003;FC
+444;Ida Moyano;06894 194285;FC
+445;Guillermo Sessler;34914567200;FC
+446;Mathilde Sisko;06227 13813;FC
+447;Siegfried S. Leisert;03342 365749;FC
+448;August Gahl;06841 53232;FC
+449;Gisela Hansmann;02336/934587;FC
+450;Amelie Delon;07254 953350;FC
+451;Annemarie Hansmann;0631 2052399;FC
+452;Astrid Miguel;0621 801740;FC
+453;James Schneider;+1 240 27589 29874;FC
+454;Annemarie Martin;0631 2052399;FC
+455;Claire Hoffen;0049 621 8283279;FC
+456;Allen Meier;201-692-8128;FC
+457;Johannes Zimmermann;06131 125627;FC
+458;Salvador Miguel;953345728;FC
+459;Ludwig Sommer;06151 77372;FC
+460;Andreas Columbo;0732 652149;FC
+461;Amelie Sommer;07254 953350;FC
+462;Hendrik Detemple;07272 757575;FC
+463;Mathilde Neubasler;06227 13813;FC
+464;Anne-Marie Heller;0911 584 365;FC
+465;Gisela Gahl;02336/934587;FC
+466;Salvador Koslowski;953345728;FC
+467;August Simonen;06841 53232;FC
+468;Christa Gueldenpfennig;06157 93123;FC
+469;Lee Kirk;516-865-1547;FC
+470;Ida Neubasler;06894 194285;FC
+471;Stephen Gahl;06202 12345;FC
+472;Theresia Benz;07034 / 299934;FC
+473;Jean Koller;+32 2 202 1638;FC
+474;Ruth Henry;02131 465750;FC
+475;Peter Eichbaum;03224 78655;FC
+476;Christine Montero;0621/812547;FC
+477;Ulla Matthaeus;06222 12345;FC
+478;Roland Ryan;07751 800753;FC
+479;Ludwig Leisert;06151 77372;FC
+480;Holm Matthaeus;06221 54321;FC
+481;Dominik Zimmermann;07082/8950;FC
+482;Chantal Columbo;0134 63 1919;FC
+483;Uli Picard;0734 372509;FC
+484;Ulla Picard;06222 12345;FC
+485;Ida Schneider;06894 194285;FC
+486;Annemarie Picard;0631 2052399;FC
+487;Holm Sessler;06221 54321;FC
+488;Dominik Sessler;07082/8950;FC
+489;Lothar Leisert;089 8828838;FC
+490;James Montero;+1 240 27589 29874;FC
+491;Kurt Weiss;06221 922 053;FC
+492;Florian Martin;06222 12345;FC
+493;Guenther Buehler;0761 475633;FC
+494;Irene Jeremias;04232 16212;FC
+495;Marta Neubasler;932374423;FC
+496;Fabio Domenech;3452738785;FC
+497;Lothar Vrsic;089 8828838;FC
+498;Lee Babilon;516-865-1547;FC
+499;Kurt DOultrement;06221 922 053;FC
+500;Claire Meier;0049 621 8283279;FC

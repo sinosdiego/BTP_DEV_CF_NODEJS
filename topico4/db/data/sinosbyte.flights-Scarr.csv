@@ -1,0 +1,19 @@
+CARRID;CARRNAME;CURRCODE;URL
+AA;American Airlines;USD;http://www.aa.com
+AB;Air Berlin;EUR;http://www.airberlin.de
+AC;Air Canada;CAD;http://www.aircanada.ca
+AF;Air France;EUR;http://www.airfrance.fr
+AZ;Alitalia;EUR;http://www.alitalia.it
+BA;British Airways;GBP;http://www.british-airways.com
+CO;Continental Airlines;USD;http://www.continental.com
+DL;Delta Airlines;USD;http://www.delta-air.com
+FJ;Air Pacific;USD;http://www.airpacific.com
+JL;Japan Airlines;JPY;http://www.jal.co.jp
+LH;Lufthansa;EUR;http://www.lufthansa.com
+NG;Lauda Air;EUR;http://www.laudaair.com
+NW;Northwest Airlines;USD;http://www.nwa.com
+QF;Qantas Airways;AUD;http://www.qantas.com.au
+SA;South African Air.;ZAR;http://www.saa.co.za
+SQ;Singapore Airlines;SGD;http://www.singaporeair.com
+SR;Swiss;CHF;http://www.swiss.com
+UA;United Airlines;USD;http://www.ual.com
