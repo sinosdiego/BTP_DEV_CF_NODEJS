@@ -1,4 +1,3 @@
-
 namespace sinosbyte.flights;
 
 type buspatyp : String(4) enum {
@@ -99,11 +98,13 @@ entity Sbook {
     passname    : String(50) null;
     passform    : String(30) null;
     passbirth   : String(10) null;
+    scarr       : Association to one Scarr   on scarr.carrid   = $self.carrid;
+    spfli       : Association to one Spfli   on spfli.carrid   = $self.carrid
+                                            and spfli.connid   = $self.connid;    
     sflight     : Association to one Sflight on sflight.carrid = $self.carrid
                                             and sflight.connid = $self.connid
                                             and sflight.fldate = $self.fldate;
 }
-
 
 entity Scustom {
     key id      : String(16);
