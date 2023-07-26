@@ -66,11 +66,12 @@ entity Sflight {
     seatsocc_b  : Integer;
     seatsmax_f  : Integer;
     seatsocc_f  : Integer;
-    spfli       : Association to one Spfli  on spfli.carrid  = $self.carrid
-                                           and spfli.connid  = $self.connid;
-    sbooks      : Composition of many Sbook on sbooks.carrid = $self.carrid 
-                                           and sbooks.connid = $self.connid
-                                           and sbooks.fldate = $self.fldate;
+    scarr       : Association to one Scarr    on scarr.carrid = $self.carrid;
+    spfli       : Association to one Spfli  on spfli.carrid   = $self.carrid
+                                           and spfli.connid   = $self.connid;
+    sbooks      : Composition of many Sbook on sbooks.carrid  = $self.carrid 
+                                           and sbooks.connid  = $self.connid
+                                           and sbooks.fldate  = $self.fldate;
 }
 
 entity Sbook {
